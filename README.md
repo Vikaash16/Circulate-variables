@@ -15,14 +15,7 @@ Using the slicing concept rotate the list
 ### Step 5: 
 ### Step 6: 
 ## Program:
-'''Circulate he n variable
-Developed by: Vikaash P
-Register Number : 212223240180'''
 
-def circulate():
- list1=eval(input())
- n=int(input())
- print("After circulating the values are:",list1[n:]+list1[:n])
 
 
 ## Output:
